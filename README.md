@@ -10,5 +10,5 @@ Termux - Android (recommended version 0.117)
 3. pkg install php
 4. termux-setup-storage
 5. git clone https://github.com/dzgif/SpotifyBOT/
-6. cd SpotifyxSamsung
+6. cd SpotifyBOT
 7. php index.php
