@@ -1,5 +1,5 @@
 # SpotifyBOT
-Auto Create Spotify Account
+<b>Spotify Account Creator</b>
 
 # Cara penggunaan
 
