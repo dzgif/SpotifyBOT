@@ -1,0 +1,24 @@
+{
+	
+	"Profil" : {
+		"Github" : "https://github.com/dzgif",
+		"Facebook" : "https://www.facebook.com/fxdzgif",
+		"Telegram" : "t.me/dzzzet"
+	},
+	
+	"about" : {
+		"info" : "Spotify Build 23 Mei 2023",
+		"url" : ""
+		},
+	
+	"Setting" : {
+		"email_auto" : 1,
+		"repeat" : 1
+		},
+	
+	"Spotify" : {
+		"password" : "@dzst0re",
+		"apikey_spotify" : "a2d4b979dc624757b4fb47de483f3505"
+		}
+
+}
